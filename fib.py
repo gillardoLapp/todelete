@@ -1,2 +1,2 @@
 def fib():
-	return 42
+	return 421
